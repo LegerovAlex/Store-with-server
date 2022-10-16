@@ -1,0 +1,1 @@
+{"mappings":"","sources":["src/ajax.js"],"sourcesContent":["// const URL = \"https://634c0fbd317dc96a30907dcb.mockapi.io\";\r\n\r\n// fetch(`${URL}/CARDS`).then((response) => response.text());\r\n"],"names":[],"version":3,"file":"index.e8d1f081.js.map","sourceRoot":"/__parcel_source_root/"}
